@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Qi Zhang nelezq@gmail.com
 6300summer22qzhang467
+=======
+Qi Zhang nelezq@gmail.com 
+Summer 2022
+>>>>>>> refs/remotes/origin/main
